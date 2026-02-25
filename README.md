@@ -74,11 +74,3 @@ Writing clean and maintainable code
 Integrating frontend technologies with backend logic
 
 Improving debugging and logical implementation skills
-
-👩‍💻 Author
-
-Kashish
-B.Tech – Information Technology
-Aspiring Software Developer
-
-🔗 GitHub: https://github.com/kashish709
